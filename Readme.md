@@ -16,7 +16,7 @@ A person with no knowledge of github can now search for a user and see his/her p
 
 ## Deployed Website
 https://praniti111.github.io/Search-Github-Profile/
-You can access the deployed version of this webpage from the above link.
+           You can access the deployed version of this webpage from the above link.
 
 
 Suggestions on improving the template are welcomed!
